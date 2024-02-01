@@ -10,7 +10,7 @@ body {
     display: flex;
     justify-content: center;
     margin: 20px 0;
-  }
+}
 
 .spotify-content {
     display: flex;
@@ -51,7 +51,7 @@ h3 {
     justify-content: space-around;
     align-items: center;
     background-color: #1cd760;
-    
+
     &:hover {
         transition: opacity 0.1s;
         opacity: 0.65;
@@ -63,19 +63,19 @@ h3 {
     text-decoration: none;
     font-weight: 500;
     padding: 5px 5px 5px 10px;
-  }
+}
 
-  #spotify-logo {
+#spotify-logo {
     width: 100%;
     max-width: 30px;
     padding: 5px 10px 5px 5px;
-  }
+}
 
-  hr {
+hr {
     width: 75%;
     margin-top: 0;
-  }
+}
 
-  #kth-link {
+#kth-link {
     font-size: 12px;
-  }
+}
