@@ -12,6 +12,10 @@ body {
     margin: 20px 0;
 }
 
+a {
+    color: inherit;
+}
+
 .spotify-content {
     display: flex;
     flex-direction: column;
@@ -78,4 +82,9 @@ hr {
 
 #kth-link {
     font-size: 12px;
+}
+
+.pixel-blurb {
+    text-align: center;
+    font-size: 10px;
 }
