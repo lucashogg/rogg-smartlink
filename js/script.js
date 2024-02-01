@@ -1,6 +1,5 @@
 const date = document.querySelector('#date');
 
-const currentDate = new Date();
-const year = currentDate.getFullYear();
+const year = new Date().getFullYear();
 
 date.innerText = year;
