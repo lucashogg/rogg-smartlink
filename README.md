@@ -8,7 +8,7 @@
 
 ## Background
 
-As a hobby I produce music. Early in my coding journey while I was self-studying, I realized I wanted an elegant solution for providing a direct link to my music project on the Spotify streaming platform. I didn't want to sign up for yet another service (which I wouldn't have control over), I wanted something I could customize to my liking, and I needed a project would be simple enough to tackle at my coding level. This allowed me to stretch my HTML, SCSS, and JavaScript skills.
+Early in my coding journey while I was self-studying, I realized I wanted an elegant solution for providing a direct link to my music project on the Spotify streaming platform. I would use this smart link in conjunction with Facebook/Meta Ad Manager to increase my listener base. I didn't want to sign up for yet another service (which I wouldn't have control over), I wanted something I could customize to my liking, and I needed a project that would be simple enough to tackle at my coding level. This allowed me to stretch my HTML, SCSS, and JavaScript skills.
 
 ## How I Use This
 
