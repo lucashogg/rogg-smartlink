@@ -2,6 +2,8 @@
 
 > A custom "smart link" for my personal music project(s)
 
+![rogg-smartlink](https://github.com/lucashogg/rogg-smartlink/assets/73367876/4924e27d-61c4-4df1-b072-f7fed2720b68)
+
 [See it live here!](https://roggcollins.killtheheartache.com) (and maybe listen... ?)
 
 ## Background
