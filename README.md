@@ -23,4 +23,4 @@ The flow went like this:
 
 ## End Result
 
-At the time of use (c. 2020-2022), with the power of social ads linking to my smart link page, I was able to increase my Spotify follower count from less than 200 to over 4k. Pretty cool!
+At the time of use (c. 2021-2022), with the power of social ads linking to my smart link page, I was able to increase my Spotify follower count from less than 200 to over 4k. Pretty cool!
